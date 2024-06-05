@@ -1,0 +1,16 @@
+PODS:
+  - ChatTest (0.1.0)
+
+DEPENDENCIES:
+  - ChatTest (from `../`)
+
+EXTERNAL SOURCES:
+  ChatTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChatTest: 4445b7f0ac2be06449a95e7a3350ba6d55cfff0f
+
+PODFILE CHECKSUM: 90684b4abd6cabe8fb2d6d554644b9e1be76285a
+
+COCOAPODS: 1.14.3

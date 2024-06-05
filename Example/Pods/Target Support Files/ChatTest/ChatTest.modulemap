@@ -1,0 +1,6 @@
+framework module ChatTest {
+  umbrella header "ChatTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
